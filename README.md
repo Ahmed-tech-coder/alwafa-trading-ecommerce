@@ -47,17 +47,17 @@ To experience the platform's user-facing catalog or test the comprehensive admin
 
 ---
 
-## 📸 Screenshots Section
+## 📸 Screenshots
 
-Below is a breakdown of the primary interfaces showing the premium aesthetic and layout:
+Explore the platform’s core interfaces showcasing the modern UI, responsive layouts, and management workflows.
 
-|                                                                             🏠 Customer Landing & Hero                                                                             |                                                                              🛒 Shop Catalog & Dynamic Sidebar                                                                              |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://placehold.co/600x400/264978/FFFFFF?text=Al+Wafa+Home+Page" width="100%" alt="Al Wafa Home Portal"/> <br/> _Dynamic landing page showing craftsmanship heritage._ | <img src="https://placehold.co/600x400/BF1E2E/FFFFFF?text=Timber+Product+Catalog" width="100%" alt="Dynamic Timber Catalog"/> <br/> _Searchable catalog listing dimension specific panels._ |
+|                                                                  🏠 Customer Landing & Hero                                                                  |                                                              🛒 Shop Catalog & Dynamic Sidebar                                                               |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="./src/assets/1.png" width="100%" alt="Al Wafa Home Portal"/> <br/><sub>Dynamic landing page highlighting the brand’s craftsmanship heritage.</sub> | <img src="./src/assets/2.png" width="100%" alt="Dynamic Timber Catalog"/> <br/><sub>Searchable catalog with advanced material and dimension filtering.</sub> |
 
-|                                                                                   📊 Administrator KPI Dashboard                                                                                   |                                                                                       📦 Order Inquiries Control                                                                                        |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://placehold.co/600x400/1e3b63/FFFFFF?text=Admin+Analytics+KPIs" width="100%" alt="Dashboard Statistics"/> <br/> _Global dashboard displaying total products, sales, and accounts._ | <img src="https://placehold.co/600x400/E9EFF9/000000?text=Customer+Orders+Control" width="100%" alt="Customer Requests Manager"/> <br/> _Cart logs waiting for approval, cancellation, and validation._ |
+|                                                                      🛠️ Services Overview                                                                       |                                                                       📦 Order Inquiries Management                                                                       |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="./src/assets/3.png" width="100%" alt="Services Dashboard"/> <br/><sub>Modern service showcase with responsive sections and business highlights.</sub> | <img src="./src/assets/4.png" width="100%" alt="Customer Requests Manager"/> <br/><sub>Administrative interface for handling customer requests and order approvals.</sub> |
 
 ---
 
@@ -375,4 +375,4 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
   <br/>
   <sub>© 2026 Al Wafa Trading Doha, Qatar. Sourced with premium global specifications.</sub>
 </div>
-"# alwafa-trading-ecommerce" 
+"# alwafa-trading-ecommerce"

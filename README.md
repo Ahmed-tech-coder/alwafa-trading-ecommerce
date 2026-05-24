@@ -33,20 +33,6 @@ This modern platform serves the trade and construction ecosystem by allowing cli
 
 ---
 
-## 🌐 Demo / Preview
-
-To experience the platform's user-facing catalog or test the comprehensive administration control center, visit the live deployment environment:
-
-- **Live Demo URL:** `https://alwafa-trading.vercel.app` _(Placeholder - replace with actual URL if different)_
-- **Customer Sandbox Login:**
-  - **Email:** `client@alwafa.com.qa`
-  - **Password:** `Client@1234`
-- **Administrator Sandbox Login:**
-  - **Email:** `admin@alwafa.com.qa`
-  - **Password:** `Admin@1234`
-
----
-
 ## 📸 Screenshots
 
 Explore the platform’s core interfaces showcasing the modern UI, responsive layouts, and management workflows.
